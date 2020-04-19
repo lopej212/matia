@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>00048.jpg</filename>
+	<path>/Users/josemanuel/Documents/Matia/initial_training_car/images/00048.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>813</width>
+		<height>541</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>211</xmin>
+			<ymin>76</ymin>
+			<xmax>750</xmax>
+			<ymax>460</ymax>
+		</bndbox>
+	</object>
+</annotation>
